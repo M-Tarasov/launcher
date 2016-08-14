@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Server 1",
+        "desc": "Apache Web-Server",
+        "cmd": ["ssh user@www-server"]
+    },
+    {
+        "title": "Database Server",
+        "desc": "MySql",
+        "cmd": ["ssh user@db-server"]
+    }
+]
