@@ -12,12 +12,12 @@ Put the configuration file `.menu.json` (see example below) into your home direc
     {
         "title": "Server 1",
         "desc": "Apache Web-Server",
-        "cmd": ["ssh user@www-server"]
+        "cmd": ["ssh", "user@www-server"]
     },
     {
         "title": "Database Server",
         "desc": "MySql",
-        "cmd": ["ssh user@db-server"]
+        "cmd": ["ssh", "user@db-server"]
     }
 ]
 ```
